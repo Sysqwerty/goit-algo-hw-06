@@ -1,5 +1,7 @@
 # goit-algo-hw-06
 
+[Тема 6. Графи](https://www.edu.goit.global/uk/learn/13571785/19646173/19658290/training)
+
 # Завдання 1: Створення та візуалізація графа
 
 ![img.png](img.png)
